@@ -1,0 +1,24 @@
+title The Wealth of Nations
+ISBN 9780140436150
+pages 301
+price 13.99
+genre non-fiction
+author Adam Smith
+quantity 2
+seperator
+title The Selfish Gene
+ISBN 100547978847
+pages 300
+price 13.99
+genre non-fiction
+author Richard Dawkins
+quantity 9
+seperator
+title Why Nations Fail
+ISBN 9780307719218
+pages 450
+price 15.99
+genre non-fiction
+author Daron Acemoglu
+quantity 4
+seperator
